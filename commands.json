@@ -1,6 +1,7 @@
 {
-  "_aciklama": "Komut listesine komut ekle, sistem 30sn'de bir kontrol eder.",
-  "_son_guncelleme": "2026-05-21 10:51:34",
-  "komut_id": "",
-  "komutlar": []
+  "_son_guncelleme": "2026-05-21 11:01:45",
+  "komut_id": "54abfb45",
+  "komutlar": [
+    "bilgisayar_yeniden"
+  ]
 }
